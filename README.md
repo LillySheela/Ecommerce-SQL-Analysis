@@ -38,11 +38,3 @@ This project demonstrates **end-to-end SQL-based data analysis** — from raw da
 2. Run SQL queries from `/queries/`.  
 3. Review insights in `/docs/insights_recommendations.pdf`.  
 
----
-
-## 📌 Deliverables
-- ✅ **SQL Scripts** (BigQuery)  
-- ✅ **Actionable Insights Report (PDF)**  
-- ✅ **Structured GitHub Repository** for portfolio showcase  
-
----
