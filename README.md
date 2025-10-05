@@ -29,7 +29,7 @@ This project demonstrates **end-to-end SQL-based data analysis** — from raw da
 - `data/` → raw datasets (customers, orders, products, payments)  
 - `queries/` → SQL queries (master + theme-based)  
 - `docs/` → insights & recommendations report (PDF)
-- `dashboard` → Tableau dashboard preview image & dashboard URL
+- `dashboard` → Tableau dashboard preview & URL
 - `README.md` → project overview  
 
 ---
